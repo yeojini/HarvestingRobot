@@ -37,11 +37,10 @@ Windows 운영체제에서 Visual Studio 2017 을 사용하므로
 
 ## 3. 프로젝트 구성
 ### 3-1. Work Flow
-(https://www.notion.so/yeogenius/OpenCV-a56e9fc411534171be50446bbcded662#1f8e7bd1f36440e8b024c4232292cfc7)
+
 1. D C 모터를 이용하여 주행 후 물체가 인식되면 정지하고 과일수확기능을 수행한다. 적외선 센서를 통해서 끝부분을 인식한 후 일정 높이로 상승 후 과일수확기능을 반복한다.
 2. We b C a m 의 영상을 노트북으로 받아서 O p e n C V 를 통해 물체를 확인한다. 정해진 범위 내에 정해진 크기와 비율에 맞는 물체가 인식되면 로봇에게 주행 정지 및 높이에 대한 정보를 시리얼과 블루투스 통신으로 송신한다.
 3. 수신한 높이 정보와 동일한 위치까지 올라가면 T O F 센서로 고추까지의 거리를 받고 로봇팔을 뻗은 후 서보모터가 장착된 g r i p p e r 로 고추를 수확한다. 수확동작이 끝나면 로봇팔을 원상복귀 시킨다.
 4. 수확기능이 끝나면 원래의 높이까지 되돌아 온다. 이 후 물체가 인식될때 까지 전진하고 물체가 인식 시 수확기능을 반복수행한다.
 
 ### 3-2. H/W
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/583f0f65-0a47-484d-a786-4c770368b580/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/583f0f65-0a47-484d-a786-4c770368b580/Untitled.png)
