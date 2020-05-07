@@ -3,7 +3,7 @@
 ## 1. OpenCV 개발 환경 설정
 ### 1-1. OpenCV 다운로드
 본 프로젝트는 2017년 6월에 개발이 완료되었고
-Windows 운영체제에서 Visual Studio 2017 을 사용하므로
+Windows 운영체제에서 Visual Studio 2017 을 사용하므로<br>
 [OpenCV – 2.4.13.2 버전](https://opencv.org/releases/page/4/) 을 사용하였습니다.
 압축 해제할 경로를 선택해주시고 Extract 버튼을 눌러주세요
 
