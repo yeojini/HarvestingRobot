@@ -45,7 +45,8 @@ Windows 운영체제에서 Visual Studio 2017 을 사용하므로<br>
 
 ### 3-2. H/W
 ![hardwaredesign](https://user-images.githubusercontent.com/58680458/81286819-a4a81c00-909c-11ea-8caf-719c1e68824a.png)
-![하드웨어](https://user-images.githubusercontent.com/58680458/81286845-affb4780-909c-11ea-926e-7b68b31233b2.png)
+![hardware](https://user-images.githubusercontent.com/58680458/81286882-c3a6ae00-909c-11ea-8d50-4a5362818bca.png)
+
 
 
 ### 3-3. 기술 스택
@@ -80,5 +81,5 @@ Windows 운영체제에서 Visual Studio 2017 을 사용하므로<br>
 - 로봇팔을 뻗고 그리퍼를 모으고 다시 로봇팔을 줄이고 그리퍼를 벌린다.
 - 그리퍼를 벌린 후 로봇의 초기 높이로 돌아간다.
 
-![hardware](https://user-images.githubusercontent.com/58680458/81286882-c3a6ae00-909c-11ea-8d50-4a5362818bca.png)
+
 
