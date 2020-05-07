@@ -1,5 +1,7 @@
 # OpenCV 기반의 작물 수확 로봇
 
+[시연 영상 on Youtube](https://www.youtube.com/watch?v=DG3KgWhRhZA&feature=youtu.be)
+
 ## 1. OpenCV 개발 환경 설정
 ### 1-1. OpenCV 다운로드
 본 프로젝트는 2017년 6월에 개발이 완료되었고
